@@ -1,2 +1,2 @@
-# Frontend-animais
-Frontend simples utilizando HTML, CSS e Javascript
+# Front-end-animais
+Front-end simples utilizando HTML, CSS e Javascript
